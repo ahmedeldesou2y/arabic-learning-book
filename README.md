@@ -22,4 +22,4 @@ An interactive web-based companion application designed to assist Arabic languag
 
 ### Live Demo | معاينة حية
 The project is hosted and can be accessed directly via GitHub Pages:
-[رابط الموقع - Live Demo](https://ahmedeldesou2y.github.io/arabic-learning-book/)
+[https://ahmedeldesou2y.github.io/arabic-learning-book/](https://ahmedeldesou2y.github.io/arabic-learning-book/)
